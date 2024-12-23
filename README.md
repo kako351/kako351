@@ -1,7 +1,5 @@
-## I'm 👋, kako351
-
-<h1 align="center">kako351</h1>
-<h3 align="center">Android Engineer and Coffee Roaster.</h3>
+<h1 align="start">kako351</h1>
+<h3 align="start">Android Engineer and Coffee Roaster.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kako351&label=Profile%20views&color=0e75b6&style=flat" alt="kako351" /> </p>
 
